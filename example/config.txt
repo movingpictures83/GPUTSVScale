@@ -1,0 +1,2 @@
+Prefix plugins/GPUTSVScale/example
+Plugin GPUTSVScale inputfile parameters.txt outputfile scaled.tsv
